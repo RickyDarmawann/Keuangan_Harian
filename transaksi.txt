@@ -1,0 +1,6 @@
+tanggal,jenis,keterangan,jumlah
+2026-10-10,pemasukan,Uang saku,100000
+2026-10-10,pengeluaran,Makan,25000
+2026-10-10,pengeluaran,Transportasi,15000
+2026-10-10,pemasukan,uang saku,50000
+2026-03-28,pengeluaran,makan ayam,55000

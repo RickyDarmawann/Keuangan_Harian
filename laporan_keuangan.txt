@@ -1,0 +1,12 @@
+LAPORAN KEUANGAN HARIAN
+=======================
+Total pemasukan: Rp150,000
+Total pengeluaran: Rp95,000
+Saldo akhir: Rp55,000
+
+DAFTAR TRANSAKSI
+2026-10-10 | pemasukan | Uang saku | Rp100,000
+2026-10-10 | pengeluaran | Makan | Rp25,000
+2026-10-10 | pengeluaran | Transportasi | Rp15,000
+2026-10-10 | pemasukan | uang saku | Rp50,000
+2026-03-28 | pengeluaran | makan ayam | Rp55,000
